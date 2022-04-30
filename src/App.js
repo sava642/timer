@@ -3,7 +3,7 @@ import React from 'react';
 
 export default class App extends React.Component {
   state = {
-    count: 0,
+    count: 1,
     isCounting: false,
   };
   myTimer = null;
